@@ -1,4 +1,5 @@
-# 📄 Document Q&A API with RAG and Pinecone
+# 🧠Spe Knowledge Assistant
+## 📄 Document Q&A API with RAG and Pinecone
 
 **A high-performance, API-first implementation of a Retrieval-Augmented Generation (RAG) system for querying PDF documents.**
 
